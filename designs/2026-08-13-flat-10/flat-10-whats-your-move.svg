@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#111315"/>
+<rect x="0" y="0" width="18" height="1080" fill="#ff5a00"/>
+<text x="70" y="115" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" fill="#ff5a00" letter-spacing="3">LANECOACH</text>
+<text x="70" y="245" font-family="Arial,Helvetica,sans-serif" font-size="86" font-weight="900" fill="#ffffff">GAME 1: FLUSH.</text>
+<text x="70" y="345" font-family="Arial,Helvetica,sans-serif" font-size="86" font-weight="900" fill="#ffffff">GAME 2: FLAT 10.</text>
+<line x1="70" y1="395" x2="1010" y2="395" stroke="#34383c" stroke-width="4"/>
+<text x="70" y="505" font-family="Arial,Helvetica,sans-serif" font-size="74" font-weight="900" fill="#ff5a00">WHAT'S YOUR MOVE?</text>
+<g font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="46" fill="#ffffff">
+  <rect x="70" y="590" rx="18" width="285" height="125" fill="#1c2024" stroke="#ff5a00" stroke-width="3"/>
+  <text x="212" y="668" text-anchor="middle">MOVE?</text>
+  <rect x="398" y="590" rx="18" width="285" height="125" fill="#1c2024" stroke="#ff5a00" stroke-width="3"/>
+  <text x="540" y="668" text-anchor="middle">SPEED?</text>
+  <rect x="726" y="590" rx="18" width="285" height="125" fill="#1c2024" stroke="#ff5a00" stroke-width="3"/>
+  <text x="868" y="668" text-anchor="middle">BALL?</text>
+</g>
+<text x="70" y="815" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700" fill="#ffffff">LaneCoach helps you decide.</text>
+<text x="70" y="880" font-family="Arial,Helvetica,sans-serif" font-size="31" fill="#b9bec4">Personalized to your game + the equipment in your bag.</text>
+<rect x="70" y="940" rx="14" width="365" height="70" fill="#ff5a00"/>
+<text x="252" y="986" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="900" fill="#111315">LANECOACHAPP.COM</text>
+<text x="1010" y="987" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#b9bec4">COMING SOON</text>
+</svg>
